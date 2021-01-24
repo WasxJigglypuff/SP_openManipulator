@@ -1,0 +1,1 @@
+rosrun moveit_kinematics create_ikfast_moveit_plugin.py open_manipulator arm open_manipulator_ikfast_arm_plugin /home/wasx/openManipulator_ws/src/open_manipulator_ikfast_arm_plugin/src/open_manipulator_arm_ikfast_solver.cpp
